@@ -1,0 +1,29 @@
+.service {
+  display: flex;
+  flex-direction: column;
+  padding: 55px 0 0;
+}
+
+.service__img {
+  width: 29%;
+  /*margin-right: 5.3%;*/
+  border-radius: 5px;
+}
+
+.service__content {
+  flex: 1;
+  width: 29%;
+}
+
+.service__title {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 31px;
+  margin-top: 11px;
+  color: #000;
+}
+
+.service__text {
+  margin-bottom: 33px;
+  line-height: 1.7;
+}

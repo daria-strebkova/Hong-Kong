@@ -1,0 +1,13 @@
+.page-title {
+  font-size: 72px;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.page-title--attraction {
+  font-size: 26px;
+}
+
+.page-title--eat {
+  font-size: 46px;
+}

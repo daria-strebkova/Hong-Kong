@@ -1,0 +1,10 @@
+.main {
+  width: 30%;
+}
+
+.main__title {
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 1.4;
+  margin-bottom: 22.5px;
+}

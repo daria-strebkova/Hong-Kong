@@ -1,0 +1,11 @@
+.button {
+  background: #F5170E;
+  border-radius: 35px;
+  padding: 18px 40px;
+  color: #fff;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
